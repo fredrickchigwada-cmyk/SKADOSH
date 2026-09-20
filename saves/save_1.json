@@ -1,0 +1,20 @@
+{
+  "name": "SKADOSH Player",
+  "character": "Tyson",
+  "money": 110000,
+  "level": 1,
+  "xp": 500,
+  "inventory": [],
+  "vehicles": [],
+  "properties": [],
+  "businesses": [],
+  "completed_missions": [],
+  "reputation": {
+    "CITIZEN": 0,
+    "DRIVER": 0,
+    "RACER": 0,
+    "BUSINESS": 0,
+    "VIP": 0,
+    "EXPLORER": 0
+  }
+}

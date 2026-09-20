@@ -1,0 +1,131 @@
+{
+  "game": {
+    "name": "SKADOSH",
+    "tagline": "BORN IN ZIMBABWE. BUILT FOR THE WORLD.",
+    "starting_money": 100000
+  },
+
+  "characters": [
+    "Tyson",
+    "Humorous Jack",
+    "Oracle",
+    "BarbarousBull",
+    "Daven",
+    "Nova",
+    "Zuri",
+    "Amara",
+    "Nyx",
+    "Kira"
+  ],
+
+  "weapons": [
+    "VOLT RAVAGER",
+    "NOVA CANNON",
+    "VOID BLASTER",
+    "STARFALL",
+    "THUNDER CORE",
+    "INFINITY CORE"
+  ],
+
+  "vehicles": [
+    "Sports Car",
+    "Supercar",
+    "SUV",
+    "Sedan",
+    "Taxi",
+    "Bus",
+    "Truck",
+    "Luxury Car",
+    "Off-Road",
+    "Motorbike",
+    "Hover Vehicle"
+  ],
+
+  "maps": [
+    "Harare",
+    "Bulawayo",
+    "Mutare",
+    "Gweru",
+    "Masvingo",
+    "Kwekwe",
+    "Chitungwiza",
+    "Marondera",
+    "Kadoma",
+    "Victoria Falls",
+    "Hwange",
+    "Kariba",
+    "Bindura",
+    "Chinhoyi",
+    "Zvishavane",
+    "Beitbridge",
+    "Redcliff",
+    "Ruwa",
+    "Norton",
+    "Chegutu",
+    "Rusape",
+    "Chipinge",
+    "Chiredzi",
+    "Karoi",
+    "Binga",
+    "Gokwe",
+    "Plumtree",
+    "Shurugwi",
+    "Murehwa",
+    "Guruve",
+    "Nyanga",
+    "Vumba",
+    "Great Zimbabwe",
+    "Matobo",
+    "Zambezi",
+    "Lake Kariba",
+    "Eastern Highlands",
+    "Lowveld",
+    "Midlands",
+    "Central District",
+    "Old Harare",
+    "Neon Bulawayo",
+    "Victoria Falls Night",
+    "Hwange Industrial",
+    "Mutare Highlands",
+    "Masvingo Ruins",
+    "Gweru Airfield",
+    "Kariba Port",
+    "Chitungwiza Streets",
+    "SKADOSH Arena"
+  ],
+
+  "reputation": [
+    "CITIZEN",
+    "DRIVER",
+    "RACER",
+    "BUSINESS",
+    "VIP",
+    "EXPLORER"
+  ],
+
+  "businesses": [
+    "Garage",
+    "Restaurant",
+    "Clothing Shop",
+    "Car Dealership",
+    "Hotel",
+    "Nightclub",
+    "Transport Company",
+    "Construction Company",
+    "Security Company",
+    "Gaming Centre",
+    "Electronics Shop"
+  ],
+
+  "game_modes": [
+    "Story",
+    "Free Roam",
+    "Racing",
+    "Survival",
+    "Arena",
+    "VIP",
+    "Treasure",
+    "Co-op",
+    "Multiplayer"
+  ]
+}
